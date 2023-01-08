@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop Design: (https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/screenShotDesktop.png)
--Mobile Design: (https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/screenShotMobile.png)
+- Desktop Design: (https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/DesktopScreenShot.png)
+-Mobile Design: (https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/MobileScreenShot.png)
 
 
 ### Links
