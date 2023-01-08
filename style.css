@@ -24,11 +24,13 @@ h1, h2 {
     font-family: 'Fraunces', serif;
     color: var(--veryDarkBlue);
     line-height: 1;
+    overflow-wrap: break-word;
+    font-size: 2rem;
 }
 body {
     height: 100vh;
     width: 100vw;
-    padding: 1.5em;
+    padding: 1em;
     background-color: var(--cream);
     display: flex;
     justify-content: center;
@@ -51,15 +53,15 @@ body {
     max-width: 100%;
 }
 .product-text {
-
     display: grid;
-    padding: 2em;
-    gap: 2em;
+    padding: 1.5em;
+    gap: 1.5em;
     align-items: center;
 }
 .product-type {
     text-transform: uppercase;
     letter-spacing: 5px;
+    line-height: 1;
 }
 .price {
     display: flex;
@@ -86,7 +88,7 @@ body {
     background-color: hsl(158, 40%, 20%);
 }
 .cart-icon {
-    height: 2em;
+    height: 1.5em;
 }
 .cart-text {
     font-weight: 700;
