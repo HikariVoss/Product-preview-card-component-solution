@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop Design](https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/screenShotDesktop.png)
-[Mobile Design](https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/screenShotMobile.png)
+- Desktop Design: (https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/screenShotDesktop.png)
+-Mobile Design: (https://github.com/HikariVoss/Product-preview-card-component-solution/blob/main/screenShotMobile.png)
 
 
 ### Links
@@ -38,7 +38,7 @@ Users should be able to:
 
 ## My process
 
-I first built the website how I thought I should, with my knowledge I managed to build and style everything execpt for the responsive image. I first tried to use a <div> tag with a background image and a scrset however I couldn't get the sizing to be responsive. So I watched Kevin Powell's video on this challenge and learned how to use <picture> tag to make the responsive image.
+I first built the website how I thought I should, with my knowledge I managed to build and style everything execpt for the responsive image. I first tried to use a div tag with a background image and a scrset however I couldn't get the sizing to be responsive. So I watched Kevin Powell's video on this challenge and learned how to use picture tag to make the responsive image.
 
 ### Built with
 
@@ -50,13 +50,13 @@ I first built the website how I thought I should, with my knowledge I managed to
 
 ### What I learned
 
-I learned how to use <picture> element and how to make responsive images.
+I learned how to use picture element and how to make responsive images.
 
 ### Useful resources
 
-- [Kevin Powell - Taking on a Frontend Mentor callenge | Responsive Product Preview Card component](https://youtu.be/B2WL6KkqhLQ) - This introduced me to <picture> tag, and allowed me to make a responsive image.
+- Kevin Powell - Taking on a Frontend Mentor callenge | Responsive Product Preview Card component: (https://youtu.be/B2WL6KkqhLQ) - This introduced me to <picture> tag, and allowed me to make a responsive image.
 
 ## Author
 
-- Website - [Hikari]
-- Frontend Mentor - [@HikariVoss](https://www.frontendmentor.io/profile/HikariVoss)
+- Author - Hikari 
+- Frontend Mentor - @HikariVoss (https://www.frontendmentor.io/profile/HikariVoss)
